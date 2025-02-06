@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-About me
+Interests
 ======
 I am a software developer pursuing a Master’s degree in Computer Science and expected to graduate in June 2026. I have a profound interest in database systems, distributed systems, cloud computing, performance optimization, and automated testing. I also show the ability to team working, comprehend complex software systems and solve challenging problems.
 
