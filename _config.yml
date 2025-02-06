@@ -35,7 +35,7 @@ author:
   arxiv            : # URL - Update with the correct link to your profile
   googlescholar    : # URL 
   impactstory      : # URL
-  orcid            : https://orcid.org/0009-0009-5142-9177?lang=en
+  orcid            : "https://orcid.org/0009-0009-5142-9177?lang=en"
   semantic         : # URL
   pubmed           : # URL
   researchgate     : # URL
