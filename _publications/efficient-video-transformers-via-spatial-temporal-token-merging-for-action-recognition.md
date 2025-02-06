@@ -3,7 +3,7 @@ title: "Efficient Video Transformers via Spatial-temporal Token Merging for Acti
 collection: publications
 category: manuscripts
 permalink: /publication/efficient-video-transformers-via-spatial-temporal-token-merging-for-action-recognition
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
+excerpt: 'This work aims to boost the efficiency of existing video transformers for action recognition through eliminating redundancies in their tokens and efficiently learning motion cues of moving objects. We propose a lightweight and plug-and-play module, namely Spatial-temporal Token Merger (STTM), to merge the tokens belonging to the same object into a more compact representation.'
 date: 2024-01-11
 venue: 'ACM Transactions on Multimedia Computing, Communications, and Applications'
 slidesurl: 
